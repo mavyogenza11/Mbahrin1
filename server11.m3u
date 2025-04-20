@@ -226,7 +226,7 @@ ________________________________________________________________________________
 _____
 SOCCER
 
-#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS",SIARAN OFF_Soccer Channel
+#EXTINF:0 tvg-logo="https://i.imgur.com/68y2OmC.png" group-title="SPORTS",Soccer Channel
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvkitastream.my.id/rctiplus/drm.php/widevine?id=115
