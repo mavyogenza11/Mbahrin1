@@ -4,6 +4,14 @@
 
 
 #EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔴LIVE MDM",🔴 LIVE NEW BINTANG SAMUDRA
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745153226/ei/apgEaML-CKyT1d8P8v2B4Ag/ip/160.22.128.18/id/xCL8NRKeAZg.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442268/txs/51442265%2C51442266%2C51442267%2C51442268%2C51442269%2C51442270/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AccgBcPz66ma2P2Ua6DA9qDWGyappQ6rwZNfueHgKLbAaXLxSOXNXfP3dcxIDU_M9FQgCBnbag/spc/_S3wKoi3_3sSQswDTwF6fqBH6PW_Df1eVF4TdvnNPaUlM8_zJeM-mMdUcrVhqpgFYQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANysrIOv59DiMBLw3Dmx-acpTu99qOA5eUUldJz1xEN0AiEAn-0UxktKw-uZzBtV9N7R_a-PizNSdkNDMcOszRRUfXw%3D/file/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔴LIVE MDM",🔴 LIVE KARAWITAN YULI LARAS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745145281/ei/YXkEaOqbKaCc4t4P-93hqAg/ip/160.22.128.114/id/JYVQ3banFk0.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51442268/txs/51442265%2C51442266%2C51442267%2C51442268%2C51442269%2C51442270/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcPV1Q5-pSZ9_8N2HQt1-vFfjXwVIRcckyyc1jrTOV7AdLaST26u-36rL2731Cg2kvA3RQ/spc/_S3wKlVlas-J_GiOdczxS16HaKhNoH7LoWelwNcyLdhGv_nZ_cMaRcDHElqw9k5L6g/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIhALVcTYvDsREGJZF7jj-rOYlqI3eH9HLKucFcWT2ba721AiBaDNYzNMTauUr4uBNjpykB05GcycTve4klazlC6ROZ6A%3D%3D/file/index.m3u8
 
