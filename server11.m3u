@@ -9,9 +9,16 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745497165/ei/7
 
 
 
+
 #EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔴LIVE MDM",🔴LIVE WEDDING MARWAN & MARETA
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745489819/ei/O7sJaNuNAeaJ1d8PxoDm-Ac/ip/160.22.128.18/id/OQF9qFZSFAs.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcNkCZlbqH-yhE8cKHx38DR-8wCGLSuRXNtWOEd1tb_eDckQ5EQf0Zm42ra3MHeNpy1MJw/spc/_S3wKjShbM_l7iWxibp5CeiDDHrg-qWAbT_yTZSGEJbhkEAnAUkTPX0SsY39kparKg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRQIgKdxzIguiGESQ5igQnbcBVhPESMksqKXW0YztVJolGSACIQCj9o-qOxRdvAqYk7ohhf3lyHlkJdHw0a0kfTa1SaGGCw%3D%3D/file/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔴LIVE MDM",🔴LIVE NEW SS
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745498095/ei/j9sJaJKoIoCAjuMPoYztkAE/ip/18.143.169.86/id/7_Nt_RWHgSQ.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcPm6DH9YtD5et6CfndnSJb7qF3Hb8zWdnYq_JC5h7cPrmUt0OYfQUqgMKkukcb0AaUmUg/spc/_S3wKiedLwZzlJBoexFTgKZKvBc4Sxbp2AYnY8VU8htSe9euVyk1EYGA40IKROhtg_xEaEYZ-l5DxSFg/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAIanLdBnKlREjKS9yM9MPylE0wmJMGTrjuDiVNEQlGDyAiEA37vf14Yvl3H-z5deDMS0yRLfpH-vIrJQzlLjO7ppPbA%3D/file/index.m3u8
+
+
+
+#EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔴LIVE MDM",🔴LIVE CAMPURSARI LARAS WIJOYO
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745497849/ei/mdoJaLvMDNuojuMPztHowAo/ip/18.143.169.86/id/wzjZO1-QEoU.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AccgBcOxRahGTJCDS_a5XTamAkgH0jL5UH1HNi79Q5BNjKT69aG8OKkzYoMGD2x5ULxDEsMn9g/spc/_S3wKttGKoJWywF_jTSPMRq9HXpZj6sgaOOUTUo6FE04Z7ufT8sG1ZF4ET_AoTdlTJimIcyJgjEd2PSN/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhANfxYyRNaaxMxvgL3Fgya5Gw3_96wqabNJA5tPSI8aQpAiEA-u2Vh2qJ9x5dpBfVnl30XiiG09GSY8uqnEX1-caK474%3D/file/index.m3u8
 
 
 
