@@ -934,6 +934,17 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
 
 ================ RELIGI ==================
 
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="RELIGI",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="RELIGI" tvg-id="AlQuranAlKareemTV.sa" tvg-logo="https://i.ibb.co.com/th97cC2/quran.png",Qur'an TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -1020,6 +1031,17 @@ ________________________________________________________________________________
 
 
 ================ KIDS ==================
+
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="KIDS",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
+
 
 
 #EXTINF:-1 tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://www.freepnglogos.com/uploads/cartoon-network-png-logo/c-n-png-logo-3.png" group-title="Kids" tvg-id="Cartoon Network" , Cartoon Network
@@ -1122,6 +1144,16 @@ __________________________________________________
 
 ================ MUSIC ==================
 
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="MUSIC",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
+
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhS4WC3CI-sRu_zbICv9dB-0frZh7ASwTRz_jkbz4iCcu64pq905gP7so9X1M9oBuXLGJIpl2UxIohQRMQC1CL0byBnpU_6avW5LvLcCjiG2PB0IWOtn2-6dbmQCgkGmtau5k2iV8BnXgQF6RVgUbgr38UDvRRcKWB14Z6WRn586zmWjvsG5SX0sqAFf7AI/s700/BAHANA.png",BAHANA RADIO MUSIC
 https://5bf7b725107e5.streamlock.net/bahanaradio/bahanaradio/playlist.m3u8
 
@@ -1165,6 +1197,15 @@ https://live.24hrkpop.com/hls/3/stream.m3u8
 
 
 ================ LK21 ==================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="LK21",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
 
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4K2PG6M.jpeg" group-title="lk21",wulan
@@ -1256,6 +1297,15 @@ ______________________
 ______________________
 
 ================ MOVIES ==================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="MOVIES",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
 
 
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -1453,6 +1503,17 @@ ________________________
 ________________________
 
 =========================MOVIES Stream=============================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="MOVIES Stream",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
+
+
 
 #EXTINF:-1 tvg-id="" tvg-name="The Beekeeper" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/A7EByudX0eOzlkQ2FIbogzyazm2.jpg" group-title="🔴MOVIES Stream", The Beekeeper
 https://cdn7iv.diebutx.com/orginstream/u1/origin1storage/2024/Feb/01/The.Beekeeper.2024.mp4/tracks-v1a1/mono.m3u8
@@ -1705,6 +1766,15 @@ ________________________________________________________________________________
 
 
 ================ WARKOP DKI ==================
+
+#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="WARKOP DKI",INFO..!!!
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745791806/ei/3lYOaNmbCd-YvcAP9ZbYoQE/ip/2404%3Ac0%3A7440%3A0%3A0%3A0%3A61cf%3A2752/id/XVHkO5SevP8.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/tx/51437494/txs/51437492%2C51437493%2C51437494%2C51437495/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/bui/AecWEAaJ4-sgydCRm4zMKHREPRNNBJRIIrhSLlZrvyqUehhiyJZxKx3YsLG7fTTUX4rEn8hjZrHoW0A6/spc/wk1kZrqDqCsCKOBctX8PsaJo9EhF8FdGem3X6MdKZPfGU5TiD2VwrpQobMl4y37sR68/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Ctx%2Ctxs%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAL79DJ0Va-VTJmAoA6mRIbjeGbCkxS6HoiKsPtoxRMtDAiEAhEwWFJqpYzy3uE57lMVH5dBEnxAjjKaN4sssaxUUxuY%3D/file/index.m3u8
+
+___________________________________________________________
+
+
+
 
 
 #EXTINF:-1 tvg-id="" tvg-url="" group-title="Warkop DKI" tvg-logo="https://raw.githubusercontent.com/iplist-dev/Ch/refs/heads/main/warkop.png",Atas Boleh Bawah Boleh 1986
