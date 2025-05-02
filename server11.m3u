@@ -40,9 +40,34 @@ https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
 https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
 
+______________
+jalalive
+
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 1
+#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=077d07150f82416dba79668f152dd14b&txTime=6814b019
+
+______________
+livesport
+
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 2
+#EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
+https://tnt3-cf.boblcfwudz421.com/auth%3Dda2284d4abb66b7217b4e8ad235b15fda96f2ac54e63d615f7498965b889162aa8797fefd90edf48d1a2a6dce6059f5e200357926323a7187eeab659a8d350f493620b4e49c6141c2a79ff419643118860ecc792c058263b6f4987e23a755acd0ed8e1fa458bed6143fa07c039e6498da77d36c5269ec4763979753fcefb851688dfda0f83cbd2becfa09b0cddc130f78de500ade278428b34837c59ec83fca7%26cid%3D9r1dRiRtp-L0JBjKV7pxy250418%26_v%3D2%26_r%3Docw1jN%26_vis%3Dbaa9ac9d41240be3ba987a23da74aedeae52b314429464c6f28b2ff511ecdd0e%26_vvs%3Db6f5c188e2c593da6aca111066df531a12452091181681e571a26e05b0021294/transcode/c346370_480p.m3u8
 
 
 
+
+
+
+
+
+
+_____________________________________________________________________________________________________________
 
 
 ================ INDONESIA CHANNELS ==================
@@ -303,6 +328,12 @@ SPORTSTAR2.1
 
 _____
 SPOSTAR3
+
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Sportstars_3.png" group-title="SPORTS", Sportstars 3 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://terabit.web.id/drmkv.php?id=114&type=drm
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://terabit.web.id/media.mpd?id=114&type=dash
 
 
 _____
