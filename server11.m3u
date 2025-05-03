@@ -44,11 +44,12 @@ ______________
 jalalive
 
 
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 1
+#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 1(JALALIVE)
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-https://bf.jabflive.cc/live/5004429_hd01.m3u8?txSecret=077d07150f82416dba79668f152dd14b&txTime=6814b019
+https://bf.jabflive.cc/live/5004420_hd01.m3u8?txSecret=78fd21dbef4efa8a97a7cba82d981535&txTime=6815f6bb
+
 
 ______________
 livesport
