@@ -20,12 +20,12 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1745922384/ei/8
 
 
 
-================ 🔴LIVE LIGA BRI (TEST) ==================
+================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
 
 
 
-#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",BRI LIGA 1
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI / EVENT ONLY",BRI LIGA 1
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
@@ -35,7 +35,7 @@ https://raw.githubusercontent.com/alexjekrex/TV_Logo/refs/heads/main/cmimiw.m3u8
 
 
 
-#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",BRI LIGA ###2
+#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI / EVENT ONLY",BRI LIGA ###2
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b4899559135b490d98a892c1d6a45e20:6b5feff6a7242dc4b4345bedb84c2181
@@ -48,7 +48,7 @@ ______________
 jalalive 1
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",event only 1(JALALIVE1)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI / EVENT ONLY",event only 1(JALALIVE1)
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
@@ -60,7 +60,7 @@ ______________
 livesport
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",event only 2(LIVESPORTS)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI / EVENT ONLY",event only 2(LIVESPORTS)
 #EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
@@ -70,7 +70,7 @@ https://tnt3-cf.boblcfwudz421.com/auth%3Dee30b376edb04116225fa2a9a9d978c8397c9f7
 _________________________
 PROLIGA VOLLY
 
-#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7GLYiTjX8ezsZ3ge7CkPJIXPWTFYntIvSpG6wBbYRzjmGTSx_ODY8To&s=10" group-title="🔴LIVE LIGA BRI (TEST)",PROLIGA VOLLY
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTt7GLYiTjX8ezsZ3ge7CkPJIXPWTFYntIvSpG6wBbYRzjmGTSx_ODY8To&s=10" group-title="🔴LIVE LIGA BRI / EVENT ONLY",PROLIGA VOLLY
 https://bf.jabflive.cc/live/5004432_hd01.m3u8?txSecret=2c3acd036d06a2a4988a9536d90e6d17&txTime=68173657
 
 
