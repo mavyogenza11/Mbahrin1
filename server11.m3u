@@ -48,11 +48,11 @@ ______________
 jalalive 1
 
 
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 1(JALALIVE1)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",event only 1(JALALIVE1)
 #EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
 #EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-https://bf.jabflive.cc/live/322693_hd01.m3u8?txSecret=1e3b1dae1143bf43212e26e030c7a713&txTime=681605a6
+https://bf.jabflive.cc/live/322663_hd01.m3u8?txSecret=0c13096899e0fbfee9489157e000ced7&txTime=681723b1
 
 
 
@@ -60,7 +60,7 @@ ______________
 livesport
 
 
-#EXTINF:0 tvg-logo="https://s.id/logo-ligabri" group-title="🔴LIVE LIGA BRI (TEST)",event only 2(LIVESPORTS)
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIVE LIGA BRI (TEST)",event only 2(LIVESPORTS)
 #EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
 #EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
