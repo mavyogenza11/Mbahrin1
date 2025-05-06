@@ -383,6 +383,14 @@ PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 
+____________
+SUKAN TV
+
+#EXTINF:-1 tvg-id="RTMK05" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b2/Sukan_RTM_1_April.png" group-logo="https://raw.githubusercontent.com/hpmurah2u/pejal/PEJAL/logo%20astro%20go%20petak.png" group-title="SPORTS",SukanTV MALAYSIA
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/playlist.m3u8?id=4
+
+
+
 _______
 TVRI
 
