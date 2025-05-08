@@ -328,7 +328,7 @@ _____
 SPOSTAR1
 
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",SPORTSTARS 1
+#EXTINF:-1 group-title="SPORTS" tvg-id="MNCSports.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",(OFFLINE)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drm-vision2025.tvrusak1992.workers.dev/?no=112&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
