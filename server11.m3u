@@ -8,7 +8,7 @@
 
 
 #EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔵LIVE MDM",🔴 LIVE SEDEKAH BUMI SULURSARI
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.png" group-title="🔵LIVE MDM",SELESAI _ 🔴 LIVE SEDEKAH BUMI SULURSARI
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746386075/ei/O2gXaP3II57c3LUPy9nagAw/ip/160.22.128.18/id/p23YJp3Q8wc.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/siu/1/bui/AecWEAbMSnqgoj6ydXQGJ1Jvp5iG6iFaa9Vx331CpOKpjnTAsxTtdVVEDK2W-NNFBG_ed10zWg/spc/wk1kZkWZa-MCWFAKQ6LT1UlEJfPEpowPenE2U-vB5lzFugFb33p2bXixmb04jxXI9Q/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAPHkmf1fQFR2R42ZggMz-NkQ4QoR0gqaNnyb2fbirpuqAiEA8fvPJ56dbAZtQ8bT2EXV_HUefPW7szCR1Cga2wuq61o%3D/file/index.m3u8
 
 
@@ -16,8 +16,8 @@ https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1746386075/ei/O
 
 
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",INFO..!!
+#EXTINF:-1 group-logo="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/395_Youtube_logo-512.pn",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",TESTED
 https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSSWZBQ7H10n8BwVm8iaGsesd6j78tlo6w6yYsJZXXL0Ijq34IYfYMnMUFVlUMs.mp4?strext=1&_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=Z38y1JyWwzcQ7kNvwGdTPn-&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDE4MTQ5MjQ3MjM0NDk3LCJhc3NldF9hZ2VfZGF5cyI6MTIxOSwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjExMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_zt=28&_nc_eui2=AeFHJ8ntYQ9BUYgK1ktd9-WQz5k9cYbC0W7PmT1xhsLRbjkgP3zapYB8PSYXD9zPYGLyVBcr3nEMh3mwoFwtnwbU&oh=00_AfKqhUtgCoiYOxJvRy2sG7WvPqWL9NwcaUx9TXeOzILoAA&oe=6828E0F0
 
 
@@ -25,8 +25,8 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSS
 
 
 #EXTINF:-1 group-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",tested
-https://aws-br-cdn.kwai.net/upic/2023/05/09/20/BMjAyMzA1MDkyMDA3NTZfMTUwMDAxMjk5NjUyMTQwXzE1MDEwMjg4ODcxNDIyNV8yXzM=_b_B23009ef5fd3199e43c5ed9c9e31bc8a2.mp4?tag=1-1747138463-s-0-6v6grbk4my-7331eba483bcfcb2
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.pinimg.com/736x/ee/0f/d1/ee0fd1f1dd18ee36da43099a40e2658a.jpg" group-title="🔵LIVE MDM",INFO...!!!
+https://rr3---sn-a5mlrnl6.c.youtube.com/videoplayback?expire=1747169493&ei=VUAjaJvBHsycssUPk9Gm-A4&ip=160.22.128.114&cp=X19TaHp3d2UtMk1EUExQS0k6bldkTFNaSUp5YlZyWlB3RlJRQXNHdmo1N05oLW5zdHpOdV9kZVJMQ0x4Qg&id=e153180da240ccd0&itag=18&source=youtube&requiressl=yes&xpc=Egho2aDSNXoBAQ%3D%3D&rms=su%2Csu&sc=yes&susc=ytcp&mime=video%2Fmp4&vprv=1&rqh=1&ratebypass=yes&dur=42895.615&lmt=1745961841808848&txp=7209224&sparams=expire%2Cei%2Cip%2Ccp%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Csusc%2Cmime%2Cvprv%2Crqh%2Cratebypass%2Cdur%2Clmt&sig=AJfQdSswRgIhAJzyhxVKDtwDVtpuU60OrcSJ_Lb1yCwvBFnvWGt04-9SAiEAh3XL8iuwyHglM9APkbjYKf1QGNWSOs7-p_3ee4iTcBg%3D&rm=sn-npodl7l,sn-npode7e&rrc=199,199&fexp=24350590,24350737,24350827,24350961,24351658,24351661,24351662,24352023&req_id=8a5723aae8a136e2&redirect_counter=2&cms_redirect=yes&cmsv=e&met=1747140694,&mh=_E&mm=39&mn=sn-a5mlrnl6&ms=ltr&mt=1747140264&mv=m&mvi=3&pl=24&lsparams=met,mh,mm,mn,ms,mv,mvi,pl,rms,sc&lsig=ACuhMU0wRAIgIO4DHNl2CfqRpFhny_Nji-nO3voGofU8bRMEFvKA2f0CIA9OcszEMzguWHXjhrwIG5gMCtrE8eTSMKMrsWk4hoAz
 
 
 
