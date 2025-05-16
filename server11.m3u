@@ -39,16 +39,16 @@ https://rr4---sn-a5meknde.c.youtube.com/videoplayback?expire=1747171421&ei=3Ucja
 
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",INDOSIAR BRI LIGA 1
+#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",INDOSIAR BRI LIGA 01 FHD
 http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 
 
 _________
-926003 tv bofang/61
+926003 tv bofang/61 \\ https: //play. 926003. tv
 
 
-#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 02 FHD
+#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 02 HD
 #EXTVCLOPT:http-origin=https://play.926003.tv
 #EXTVLCOPT:http-referrer=https://play.926003.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
