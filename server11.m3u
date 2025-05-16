@@ -48,11 +48,11 @@ _________
 926003 tv bofang/61
 
 
-#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 22 FHD
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#EXTINF:-2 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",BRI LIGA 02 FHD
+#EXTVCLOPT:http-origin=https://play.926003.tv
+#EXTVLCOPT:http-referrer=https://play.926003.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
 https://pl10.chinefore.com/live/a68cd5023a639026.m3u8?txSecret=5536e103a12763db041a56f9efd07340&txTime=6827262D
-
-
 
 
 
