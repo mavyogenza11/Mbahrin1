@@ -64,11 +64,11 @@ ______________
 jalalive 1
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 1(JALALIVE1)
-#EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
-#EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
-https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=42f94db8639fb1db58885dca728528d0&txTime=681f1975
+##EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 1(JALALIVE1)
+##EXTVLCOPT:http-user-agent:Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Mobile Safari/537.36
+##EXTVLCOPT:http-referrer=https://jlbfh5.jlbfaa.com/
+##EXTVLCOPT:http-origin=https://jlbfh5.jlbfaa.com
+###https://bf.jabflive.cc/live/322708_hd01.m3u8?txSecret=42f94db8639fb1db58885dca728528d0&txTime=681f1975
 
 
 
@@ -76,11 +76,11 @@ ______________
 livesport
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 2(LIVESPORTS)
-#EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
-#EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
-https://tnt3-cf.boblcfwudz421.com/auth%3Dee3939f0543b9c8d72d0f1fb14e943f4e7768bc8c7c03395c4540f3edf45a2583c0bf2ef1fd0a67b9767596a0d1787ff6e6d89b26331fbbbb8edddb5afc3d76f60a535af7fc94b78f769b2a778c221b3bdce4e705b30748641624771e7216b67b14fae918d7f55e9dba967ff16ffa9a73b23c2e5709d0ff1be1591a241cf33cf62c1e94883b97b106630a8018e3fafc3d671acb797ce84d432aa3dcfe363bb6f72d8f273cb117e61c0bd712dd575f94a3f27aa2d78a32ddfeb8ddce0675df19c09633b2a25976a10875a6ba6a97c0e17cccc337e62f80bb9d2563ab6b875dc6c%26cid%3DXH2FdPUuiWc9c0QYfKfVs250503%26_v%3D2%26_r%3DEz0Bph%26_vis%3D4da4dfc91fc7bd8c7450882b8fe3fbc23733e9bf7b1c77f7d00feb0de56fc821%26_vvs%3Dba4c5bacfa47230e0f243b92a32e78001e71cffa55fd5a1e0cde23892537b8de/app/c348554.m3u8
+##EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="🔴LIGA BRI / EVENT ONLY",event only 2(LIVESPORTS)
+##EXTVCLOPT:http-origin=https://ppdd02.xiimadedishalthough.shop
+##EXTVLCOPT:http-referrer=https://ppdd02.xiimadedishalthough.shop/
+##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 14; en-US; 2409BRN2CY Build/UP1A.231005.007) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/123.0.6312.80 123.0.6312.80 UCBrowser/14.4.2.1354 Mobile Safari/537.36
+###https://tnt3-cf.boblcfwudz421.com/auth%3Dee3939f0543b9c8d72d0f1fb14e943f4e7768bc8c7c03395c4540f3edf45a2583c0bf2ef1fd0a67b9767596a0d1787ff6e6d89b26331fbbbb8edddb5afc3d76f60a535af7fc94b78f769b2a778c221b3bdce4e705b30748641624771e7216b67b14fae918d7f55e9dba967ff16ffa9a73b23c2e5709d0ff1be1591a241cf33cf62c1e94883b97b106630a8018e3fafc3d671acb797ce84d432aa3dcfe363bb6f72d8f273cb117e61c0bd712dd575f94a3f27aa2d78a32ddfeb8ddce0675df19c09633b2a25976a10875a6ba6a97c0e17cccc337e62f80bb9d2563ab6b875dc6c%26cid%3DXH2FdPUuiWc9c0QYfKfVs250503%26_v%3D2%26_r%3DEz0Bph%26_vis%3D4da4dfc91fc7bd8c7450882b8fe3fbc23733e9bf7b1c77f7d00feb0de56fc821%26_vvs%3Dba4c5bacfa47230e0f243b92a32e78001e71cffa55fd5a1e0cde23892537b8de/app/c348554.m3u8
 
 
 
