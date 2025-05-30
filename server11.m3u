@@ -146,14 +146,14 @@ ________________________________________________________________________________
 ================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
-#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH) 🙏
-https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
+###EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
+####EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH) 🙏
+###https://raw.githubusercontent.com/quuen2024/service/refs/heads/queen/ind1.m3u8
 
 
 
-#EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH)🙏
-http://xtv.ooo:8080/live/387546/200900/350972.ts
+###EXTINF:-1 tvg-logo="https://asset.indosport.com/article/image/329743/liga_1_bri_1-169.jpg" group-title="🔴LIGA BRI / EVENT ONLY",(EVENT OFFLINE DULU MASZEEH)🙏
+##http://xtv.ooo:8080/live/387546/200900/350972.ts
 
 
 
@@ -220,8 +220,8 @@ livesport
 ____________________
 MOJI PROLIGA
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLLiWo8gy9nEYZ90sVD7afOFOtrhxZ3wlDA&s" group-title="🔴LIGA BRI / EVENT ONLY",(OFFLINE)
-http://xtv.ooo:8080/live/387546/200900/350997.ts
+###EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQLLiWo8gy9nEYZ90sVD7afOFOtrhxZ3wlDA&s" group-title="🔴LIGA BRI / EVENT ONLY",(OFFLINE)
+##http://xtv.ooo:8080/live/387546/200900/350997.ts
 
 
 
@@ -247,7 +247,7 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="Indonesia Channels",INFO...!!
-https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=w7rpoIlq-B8Q7kNvwGDmnQG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfLlyQ1ll0D_HQ92pLMEZf4EsTstln5lrZ18a19U_UDFmQ&oe=6839DA34
+https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=ZYibnLagyigQ7kNvwHOHp-r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfJluiBlYWEbrNbu5tt5G9zL1-IGw5BoxDfc3Cvnful9Tw&oe=683FC8F4
 
 
 
@@ -464,7 +464,7 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="SPORTS",INFO...!!
-https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=w7rpoIlq-B8Q7kNvwGDmnQG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfLlyQ1ll0D_HQ92pLMEZf4EsTstln5lrZ18a19U_UDFmQ&oe=6839DA34
+https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=ZYibnLagyigQ7kNvwHOHp-r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfJluiBlYWEbrNbu5tt5G9zL1-IGw5BoxDfc3Cvnful9Tw&oe=683FC8F4
 
 
 
@@ -1050,6 +1050,13 @@ https://sweet-night-1d1d.worst.workers.dev/play.mpd?id=9183&type=dash
 
 
 ===========================================SPORTS 2 HD======================================================
+
+
+#EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="SPORTS 2 HD",INFO...!!
+https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=ZYibnLagyigQ7kNvwHOHp-r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfJluiBlYWEbrNbu5tt5G9zL1-IGw5BoxDfc3Cvnful9Tw&oe=683FC8F4
+
+
 
 
 
@@ -2367,7 +2374,7 @@ ________________________________________________________________________________
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png" group-title="SPORTS 2 FHD",INFO...!!
-https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=w7rpoIlq-B8Q7kNvwGDmnQG&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfLlyQ1ll0D_HQ92pLMEZf4EsTstln5lrZ18a19U_UDFmQ&oe=6839DA34
+https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQclE2g7Crxw1srz11AmweI9vLKAh1R6tBhGiwLwInbhIoPPllBNeNtPuLQebzs.mp4?strext=1&_nc_cat=102&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=ZYibnLagyigQ7kNvwHOHp-r&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNDgwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NjYxOTY5OTI2NjY5ODYyLCJ2aV91c2VjYXNlX2lkIjoxMDEyMSwiZHVyYXRpb25fcyI6MzQ0LCJ1cmxnZW5fc291cmNlIjoid3d3In0%3D&ccb=17-1&_nc_zt=28&_nc_rml=0&_nc_eui2=AeEp3jM0Ehd04HvogyzPXOiTv7FcUIotTvm_sVxQii1O-b2g4y63WgR7xLUVID97k2TmEwdyDcgZpBbwSgZzBm7T&oh=00_AfJluiBlYWEbrNbu5tt5G9zL1-IGw5BoxDfc3Cvnful9Tw&oe=683FC8F4
 
 
 
