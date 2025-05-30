@@ -55,9 +55,80 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSS
 #####https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQN0ByeK2QwucHbGZj_wPCFgFqEd-OSPo2G-eRay5mONNWUpyTtEOhonJ1XrTD0fWco4nqWz3li3XwGq6Lxxlh4G.mp4?strext=1&_nc_cat=106&_nc_sid=9ca052&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=hdO1t44vMtwQ7kNvwEJwp7a&efg=eyJ2ZW5jb2RlX3RhZyI6ImRhc2hfdnA5LWJhc2ljLWdlbjJfNTQwcCIsInZpZGVvX2lkIjo1NDcwMzAxMDQ5MzE3OTAsIm9pbF91cmxnZW5fYXBwX2lkIjowLCJjbGllbnRfbmFtZSI6InVua25vd24iLCJ4cHZfYXNzZXRfaWQiOjE3NDAwMDQ1OTM2MTY1NzAsInZpX3VzZWNhc2VfaWQiOjEwMTIxLCJkdXJhdGlvbl9zIjoyNjIsInVybGdlbl9zb3VyY2UiOiJ3d3cifQ%3D%3D&ccb=17-1&_nc_zt=28&_nc_eui2=AeG4gfXyP4NPo-2KfjEKZtyhWhEb3Dx3uS9aERvcPHe5L-YCNzYLb2Asz3x3mE6AUgNMS3D8z9A3l3DwRHp5AcGg&oh=00_AfLmE3994RUJkxRep9Ieq59t2kOsQoB0kVch4q6-F4tk2Q&oe=6834C61C&bytestart=33483765&byteend=34039913%20Request%20Method%20GET%20Status%20Code%20200%20OK%20Remote%20Address%2057.144.100.128:443%20Referrer%20Policy%20strict-origin-when-cross-origin
 
 
+____________________________________________________________________________________________________________________________
 
 
 
+
+
+========================================PIALA DUNIA/KUALIFIKASI==================================================
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
+
+
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="PIALA DUNIA/KUALIFIKASI™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="Okey.my" group-title="PIALA DUNIA/KUALIFIKASI™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
+
+
+#EXTINF:-1 tvg-id="" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://kwtspta.cdn.mangomolo.com/sp/smil:sp.stream.smil/index.m3u8
+
+
+#EXTINF:-1 group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+#EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/index.m3u8
+
+
+#EXTINF:-1 group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
+https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
+
+
+_________________
+soccer tv
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=115
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=115
+
+
+_________________
+sportstars2
+
+#EXTINF:-1 tvg-id="" tvg-name="" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers INDONESIA VS CHINA
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=113
+https://bintangstreaming.my.id/rcti_plus/index.mpd?id=113
+
+
+__________________
+rcti+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+#EXTINF:-1 tvg-id="RCTI.id" tvg-url="https://bit.ly/IndonesiaEpg" tvg-logo="https://iili.io/d9iom9s.jpg" group-title="PIALA DUNIA/KUALIFIKASI",World Cup 26™ Qualifiers
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
+
+
+
+
+______________________________________________________________________________________________________________________________________________
 
 ================ 🔴LIVE LIGA BRI / EVENT ONLY ==================
 
