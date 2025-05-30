@@ -73,11 +73,11 @@ ________________________________________________________________________________
 https://partneta.cdn.mgmlcdn.com/omsport/smil:omsport.stream.smil/index.m3u8
 
 
-#EXTINF:-1 tvg-id="Sukan RTM" group-title="PIALA DUNIA/KUALIFIKASI™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+#EXTINF:-1 tvg-id="Sukan RTM" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
 https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="Okey.my" group-title="PIALA DUNIA/KUALIFIKASI™ Qualifiers" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
+#EXTINF:-1 tvg-id="Okey.my" group-title="PIALA DUNIA/KUALIFIKASI" tvg-id="" tvg-logo="https://iili.io/d9iom9s.jpg", World Cup 26™ Qualifiers 
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd 
 
 
