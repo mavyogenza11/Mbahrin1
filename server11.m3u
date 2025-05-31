@@ -18,14 +18,6 @@ https://scontent-cgk2-2.xx.fbcdn.net/o1/v/t2/f2/m412/AQOWyuF5RVecgImLc3muW9OJgxJ
 
 
 
-#EXTINF:-1 group-logo="https://i.ytimg.com/vi/tI_Z4bby_fk/hqdefault.jpg?v=68384f52",YOUTUBE Channel
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tI_Z4bby_fk/hqdefault.jpg?v=68384f52" group-title="🔵LIVE MDM",SELESAI__ 🔴 LIVE ARIMBI
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748548726/ei/Fmg4aOzPGZrIs8IPhOKeyQ8/ip/160.22.128.18/id/tI_Z4bby_fk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLO8HF0N2h66iWn7orxmY9A9TQRpYf5Q0l0z8c8LLVp1C7XgmLN4WEGyz5PoafYtX77OYg/spc/l3OVKf-GdN9qGAPOAs_KOl9D-BTjBxzVPi__Knlb9unm8X_tiAJyrXcZbw64fdJQLQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMvrZu3QA-_HyW9nFGhRnW1ucRpuoopT2UUch9-Ep8iICIGiVmmveB3zmYxOt8f8WeyoKWcjMhAOvvXkgUFvHfL3c/file/index.m3u8
-
-
-
-
-
 
 
 #EXTINF:-1 group-logo="https://www.seekpng.com/png/detail/246-2464857_information-png-download-info-png.png",YOUTUBE Channel
@@ -41,6 +33,15 @@ https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQMYkT_iayhlguZ3NTjWep1LdmQc
 #EXTINF:-1 group-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png",YOUTUBE Channel
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://ais-s.ais-vidnt.com/ais/play/origin/VOD/images/PrimeMonth2024_IconHome.png" group-title="🔵LIVE MDM",TESTED_🛠️⚙️
 https://scontent-cgk2-1.xx.fbcdn.net/o1/v/t2/f2/m69/AQOofb3IMz82LSg6sjDpu7HzVwSSWZBQ7H10n8BwVm8iaGsesd6j78tlo6w6yYsJZXXL0Ijq34IYfYMnMUFVlUMs.mp4?strext=1&_nc_cat=106&_nc_sid=8bf8fe&_nc_ht=scontent-cgk2-1.xx.fbcdn.net&_nc_ohc=nhZnEXfsWwoQ7kNvwHIoKek&efg=eyJ2ZW5jb2RlX3RhZyI6Inhwdl9wcm9ncmVzc2l2ZS5GQUNFQk9PSy4uQzMuNjQwLnN2ZV9zZCIsInhwdl9hc3NldF9pZCI6NDE4MTQ5MjQ3MjM0NDk3LCJhc3NldF9hZ2VfZGF5cyI6MTIzNSwidmlfdXNlY2FzZV9pZCI6MTAxMjMsImR1cmF0aW9uX3MiOjExMCwidXJsZ2VuX3NvdXJjZSI6Ind3dyJ9&ccb=17-1&_nc_zt=28&_nc_eui2=AeFHJ8ntYQ9BUYgK1ktd9-WQz5k9cYbC0W7PmT1xhsLRbjkgP3zapYB8PSYXD9zPYGLyVBcr3nEMh3mwoFwtnwbU&oh=00_AfIysXLrG4ovCs5HO03XWtcLOd9zOBuIgS-_C-iwLY1Q3A&oe=683DF8F0
+
+
+
+
+
+#EXTINF:-1 group-logo="https://i.ytimg.com/vi/tI_Z4bby_fk/hqdefault.jpg?v=68384f52",YOUTUBE Channel
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ytimg.com/vi/tI_Z4bby_fk/hqdefault.jpg?v=68384f52" group-title="🔵LIVE MDM",SELESAI__ 🔴 LIVE ARIMBI
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1748548726/ei/Fmg4aOzPGZrIs8IPhOKeyQ8/ip/160.22.128.18/id/tI_Z4bby_fk.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/maxh/4320/playlist_duration/30/manifest_duration/30/maudio/1/ss/1/ssa/1/siu/1/bui/AY1jyLO8HF0N2h66iWn7orxmY9A9TQRpYf5Q0l0z8c8LLVp1C7XgmLN4WEGyz5PoafYtX77OYg/spc/l3OVKf-GdN9qGAPOAs_KOl9D-BTjBxzVPi__Knlb9unm8X_tiAJyrXcZbw64fdJQLQ/vprv/1/go/1/rqh/5/pacing/0/nvgoi/1/ncsapi/1/keepalive/yes/fexp/51355912/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cmaxh%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Css%2Cssa%2Csiu%2Cbui%2Cspc%2Cvprv%2Cgo%2Crqh%2Citag%2Cplaylist_type/sig/AJfQdSswRAIgMvrZu3QA-_HyW9nFGhRnW1ucRpuoopT2UUch9-Ep8iICIGiVmmveB3zmYxOt8f8WeyoKWcjMhAOvvXkgUFvHfL3c/file/index.m3u8
+
 
 
 
@@ -108,7 +109,7 @@ https://d2xz2v5wuvgur6.cloudfront.net/out/v1/63c0da12bb4d48afbaf053f51dff2353/in
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://bintangstreaming.my.id/rcti_plus/index.drm?id=1
-https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1
+################https://bintangstreaming.my.id/rcti_plus/index.mpd?id=1
 https://zozotv.xyz:443/live/muharramz7/abc12345/47.ts
 
 
